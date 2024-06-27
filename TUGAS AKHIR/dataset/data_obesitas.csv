@@ -1,0 +1,449 @@
+jenis_kelamin,umur,tinggi_badan_meter,berat_badan_kilogram,histori_keluarga_kelebihan_BB,konsumsi_tinggi_kalori,konsumsi_sayuran,makan_berat,ngemil,merokok,konsumsi_air_liter,pemantauan_kalori,aktifitas_fisik,penggunaan_perangkat_teknologi,konsumsi_alkohol,transporasi_biasa_digunakan,kelas_obesitas
+Perempuan,21,1.62,64,Ya,Tidak,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Sepeda motor,kelebihan_berat_badan
+Perempuan,21,1.52,56,Ya,Tidak,Selalu,3x,Kadang-kadang,Ya,Lebih 2 liter,Ya,4-5 hari,0-2 jam,Kadang-kadang,Sepeda motor,kelebihan_berat_badan
+Laki-laki,29,1.62,53,Tidak,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,normal
+Perempuan,23,1.5,55,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Transportasi umum,kelebihan_berat_badan
+Laki-laki,22,1.64,53,Tidak,Tidak,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,4-5 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Laki-laki,22,1.65,56,Tidak,Tidak,Selalu,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,2-4 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,22,1.7,66,Ya,Tidak,Selalu,3x,Selalu,Tidak,1-2 liter,Ya,2-4 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,30,1.71,82,Ya,Ya,Selalu,Lebih 3x,Sering,Ya,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Perempuan,52,1.69,87,Ya,Ya,Selalu,1-2x,Kadang-kadang,Ya,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,obesitas_II
+Perempuan,22,1.65,60,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Jalan kaki,normal
+Laki-laki,20,1.6,50,Ya,Tidak,Kadang-kadang,Lebih 3x,Sering,Ya,1-2 liter,Tidak,4-5 hari,3-5 jam,Tidak pernah,Sepeda motor,normal
+Laki-laki,21,1.7,65,Ya,Ya,Kadang-kadang,1-2x,Sering,Tidak,1-2 liter,Tidak,1-2 hari,3-5 jam,Selalu,Mobil,normal
+Perempuan,23,1.6,52,Tidak,Ya,Kadang-kadang,Lebih 3x,Sering,Tidak,1-2 liter,Tidak,2-4 hari,0-2 jam,Kadang-kadang,Jalan kaki,normal
+Laki-laki,23,1.68,70,Tidak,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,2-4 hari,3-5 jam,Sering,Mobil,kelebihan_berat_badan
+Perempuan,31,1.58,68,Ya,Tidak,Kadang-kadang,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Sepeda motor,obesitas_I
+Laki-laki,22,1.65,62,Tidak,Ya,Kadang-kadang,Lebih 3x,Sering,Tidak,1-2 liter,Tidak,2-4 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,22,1.56,49,Tidak,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Ya,2-4 hari,0-2 jam,Tidak pernah,Mobil,normal
+Perempuan,21,1.6,48,Tidak,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Laki-laki,23,1.65,67,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Sepeda motor,kelebihan_berat_badan
+Laki-laki,23,1.68,60,Tidak,Tidak,Kadang-kadang,Lebih 3x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Mobil,normal
+Perempuan,21,1.66,64,Ya,Ya,Tidak pernah,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Sepeda motor,kelebihan_berat_badan
+Laki-laki,21,1.66,62,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Ya,1-2 liter,Tidak,1-2 hari,0-2 jam,Sering,Sepeda motor,normal
+Perempuan,20,1.66,60,Ya,Tidak,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Mobil,normal
+Perempuan,21,1.55,50,Tidak,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,21,1.61,54,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Mobil,normal
+Perempuan,20,1.5,44,Tidak,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,normal
+Perempuan,23,1.64,52,Tidak,Ya,Selalu,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,2-4 hari,3-5 jam,Tidak pernah,Sepeda motor,normal
+Perempuan,23,1.63,55,Ya,Tidak,Selalu,3x,Tidak pernah,Tidak,1-2 liter,Ya,2-4 hari,0-2 jam,Tidak pernah,Sepeda motor,normal
+Perempuan,22,1.6,55,Tidak,Tidak,Selalu,Lebih 3x,Selalu,Tidak,Lebih 2 liter,Tidak,2-4 hari,0-2 jam,Tidak pernah,Sepeda motor,normal
+Laki-laki,23,1.68,62,Tidak,Tidak,Kadang-kadang,Lebih 3x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,normal
+Laki-laki,22,1.7,70,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,kelebihan_berat_badan
+Laki-laki,21,1.64,65,Ya,Tidak,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Sepeda motor,kelebihan_berat_badan
+Perempuan,17,1.65,67,Ya,Ya,Selalu,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Mobil,kelebihan_berat_badan
+Perempuan,21,1.55,49,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,4-5 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Laki-laki,20,1.65,58,Tidak,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,4-5 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Laki-laki,22,1.67,62,Tidak,Ya,Kadang-kadang,1-2x,Tidak pernah,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Laki-laki,22,1.68,55,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,3-5 jam,Kadang-kadang,Jalan kaki,normal
+Perempuan,21,1.66,57,Ya,Ya,Kadang-kadang,3x,Sering,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Sepeda motor,normal
+Perempuan,24,1.65,60,Ya,Tidak,Kadang-kadang,3x,Kadang-kadang,Tidak,Lebih 2 liter,Ya,1-2 hari,0-2 jam,Tidak pernah,Sepeda motor,normal
+Perempuan,24,1.6,45,Ya,Tidak,Kadang-kadang,3x,Tidak pernah,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Sepeda motor,berat_badan_kurang
+Laki-laki,23,1.65,60,Ya,Tidak,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,19,1.63,58,Tidak,Tidak,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Ya,Tidak pernah,0-2 jam,Tidak pernah,Sepeda motor,normal
+Perempuan,19,1.6,45,Tidak,Tidak,Selalu,3x,Tidak pernah,Tidak,Lebih 2 liter,Ya,2-4 hari,0-2 jam,Tidak pernah,Mobil,berat_badan_kurang
+Laki-laki,23,1.65,58,Ya,Tidak,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Sepeda motor,normal
+Perempuan,22,1.65,65,Ya,Ya,Kadang-kadang,3x,Sering,Tidak,1-2 liter,Ya,1-2 hari,0-2 jam,Tidak pernah,Jalan kaki,kelebihan_berat_badan
+Perempuan,20,1.61,64,Ya,Tidak,Selalu,3x,Selalu,Tidak,1-2 liter,Ya,Tidak pernah,0-2 jam,Sering,Sepeda motor,kelebihan_berat_badan
+Perempuan,20,1.6,57,Tidak,Tidak,Selalu,3x,Selalu,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Mobil,normal
+Perempuan,24,1.6,48,Tidak,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,2-4 hari,0-2 jam,Tidak pernah,Sepeda motor,normal
+Laki-laki,26,1.7,70,Ya,Tidak,Selalu,1-2x,Sering,Tidak,1-2 liter,Tidak,2-4 hari,0-2 jam,Sering,Sepeda motor,kelebihan_berat_badan
+Perempuan,23,1.66,60,Ya,Tidak,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,4-5 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,21,1.52,42,Tidak,Tidak,Selalu,1-2x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,21,1.52,42,Tidak,Tidak,Selalu,1-2x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Laki-laki,23,1.72,70,Tidak,Tidak,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,4-5 hari,0-2 jam,Sering,Sepeda motor,kelebihan_berat_badan
+Perempuan,21,1.69,63,Tidak,Ya,Selalu,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Laki-laki,22,1.7,66,Ya,Tidak,Kadang-kadang,3x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Sepeda motor,normal
+Perempuan,21,1.55,57,Tidak,Ya,Kadang-kadang,Lebih 3x,Sering,Tidak,1-2 liter,Ya,2-4 hari,0-2 jam,Kadang-kadang,Jalan kaki,kelebihan_berat_badan
+Perempuan,22,1.65,58,Ya,Ya,Selalu,Lebih 3x,Sering,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,38,1.56,80,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Perempuan,25,1.57,55,Tidak,Ya,Kadang-kadang,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,2-4 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,25,1.57,55,Tidak,Ya,Kadang-kadang,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,2-4 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,22,1.58,58,Ya,Ya,Kadang-kadang,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Sepeda motor,kelebihan_berat_badan
+Perempuan,18,1.56,51,Ya,Ya,Kadang-kadang,Lebih 3x,Sering,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,22,1.5,49,Ya,Tidak,Kadang-kadang,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,4-5 hari,0-2 jam,Tidak pernah,Mobil,normal
+Perempuan,19,1.61,62,Ya,Ya,Selalu,1-2x,Sering,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Sering,Sepeda motor,kelebihan_berat_badan
+Laki-laki,23,1.62,53,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Laki-laki,24,1.66,67,Ya,Ya,Selalu,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Sepeda motor,kelebihan_berat_badan
+Laki-laki,19,1.67,68,Tidak,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Sepeda motor,kelebihan_berat_badan
+Perempuan,19,1.65,61,Tidak,Ya,Selalu,1-2x,Kadang-kadang,Tidak,Lebih 2 liter,Ya,1-2 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Laki-laki,20,1.72,70,Ya,Ya,Selalu,3x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,kelebihan_berat_badan
+Perempuan,20,1.58,53,Ya,Ya,Kadang-kadang,Lebih 3x,Sering,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Sepeda motor,normal
+Laki-laki,23,1.62,58,Tidak,Tidak,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Sepeda motor,normal
+Perempuan,19,1.65,56,Ya,Ya,Selalu,3x,Sering,Ya,Lebih 2 liter,Ya,1-2 hari,3-5 jam,Sering,Sepeda motor,normal
+Perempuan,61,1.65,66,Tidak,Ya,Selalu,3x,Selalu,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Sering,Sepeda motor,kelebihan_berat_badan
+Laki-laki,44,1.6,80,Ya,Tidak,Kadang-kadang,3x,Kadang-kadang,Ya,Lebih 2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Transportasi umum,obesitas_II
+Laki-laki,25,1.7,68,Tidak,Ya,Kadang-kadang,3x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Sepeda motor,kelebihan_berat_badan
+Perempuan,34,1.68,75,Tidak,Ya,Selalu,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_I
+Perempuan,24,1.56,51,Tidak,Tidak,Selalu,3x,Sering,Tidak,1-2 liter,Tidak,2-4 hari,3-5 jam,Sering,Sepeda motor,normal
+Perempuan,36,1.63,80,Ya,Tidak,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Perempuan,27,1.6,61,Tidak,Ya,Selalu,3x,Selalu,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,kelebihan_berat_badan
+Perempuan,32,1.67,90,Ya,Ya,Selalu,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,2-4 hari,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Perempuan,30,1.62,59,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,2-4 hari,0-2 jam,Kadang-kadang,Jalan kaki,normal
+Perempuan,38,1.5,60,Ya,Ya,Kadang-kadang,1-2x,Selalu,Ya,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_I
+Laki-laki,34,1.69,84,Ya,Tidak,Kadang-kadang,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,2-4 hari,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Perempuan,31,1.68,63,Ya,Ya,Selalu,1-2x,Sering,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Jalan kaki,normal
+Perempuan,35,1.53,45,Ya,Tidak,Selalu,3x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,normal
+Laki-laki,21,1.67,60,Ya,Ya,Kadang-kadang,3x,Sering,Tidak,1-2 liter,Tidak,2-4 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,40,1.55,62,Ya,Tidak,Selalu,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_I
+Laki-laki,55,1.65,80,Tidak,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Perempuan,21,1.63,60,Ya,Ya,Selalu,3x,Selalu,Ya,1-2 liter,Tidak,2-4 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,45,1.63,77,Ya,Ya,Kadang-kadang,3x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Laki-laki,18,1.6,58,Ya,Ya,Kadang-kadang,3x,Sering,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,23,1.65,59,Tidak,Tidak,Selalu,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,3-5 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,38,1.64,59,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,2-4 hari,0-2 jam,Tidak pernah,Sepeda motor,normal
+Perempuan,18,1.57,48,Ya,Ya,Selalu,1-2x,Selalu,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Sepeda motor,normal
+Perempuan,18,1.58,48,Tidak,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Sepeda motor,normal
+Perempuan,23,1.68,67,Ya,Ya,Kadang-kadang,3x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,kelebihan_berat_badan
+Perempuan,31,1.62,68,Tidak,Tidak,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_I
+Perempuan,33,1.63,62,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Sepeda motor,kelebihan_berat_badan
+Laki-laki,20,1.6,56,Tidak,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,18,1.59,40,Ya,Ya,Kadang-kadang,1-2x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,3-5 jam,Tidak pernah,Sepeda motor,berat_badan_kurang
+Perempuan,23,1.66,60,Ya,Ya,Kadang-kadang,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,41,1.54,80,Ya,Ya,Kadang-kadang,3x,Selalu,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Perempuan,22,1.69,65,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,22,1.69,65,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,21,1.63,51,Tidak,Ya,Kadang-kadang,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Sepeda motor,normal
+Laki-laki,21,1.65,53,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Laki-laki,21,1.68,70,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,Tidak pernah,3-5 jam,Kadang-kadang,Sepeda motor,kelebihan_berat_badan
+Perempuan,23,1.6,63,Ya,Tidak,Selalu,3x,Sering,Tidak,1-2 liter,Tidak,4-5 hari,0-2 jam,Kadang-kadang,Mobil,kelebihan_berat_badan
+Perempuan,21,1.5,42,Ya,Tidak,Tidak pernah,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,4-5 hari,0-2 jam,Tidak pernah,Sepeda motor,normal
+Perempuan,21,1.72,66,Ya,Ya,Selalu,Lebih 3x,Selalu,Tidak,Lebih 2 liter,Tidak,Tidak pernah,3-5 jam,Tidak pernah,Sepeda motor,normal
+Perempuan,22,1.61,63,Ya,Ya,Selalu,3x,Sering,Tidak,Lebih 2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Sepeda motor,kelebihan_berat_badan
+Perempuan,20,1.6,50,Tidak,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,normal
+Perempuan,24,1.62,58,Tidak,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,40,1.68,80,Tidak,Tidak,Selalu,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Perempuan,21,1.63,66,Ya,Ya,Selalu,1-2x,Kadang-kadang,Ya,Lebih 2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,kelebihan_berat_badan
+Perempuan,51,1.59,50,Ya,Tidak,Selalu,3x,Kadang-kadang,Ya,Lebih 2 liter,Ya,2-4 hari,0-2 jam,Tidak pernah,Sepeda motor,normal
+Perempuan,34,1.68,77,Ya,Tidak,Selalu,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_I
+Perempuan,19,1.59,49,Ya,Ya,Kadang-kadang,1-2x,Tidak pernah,Tidak,1-2 liter,Tidak,2-4 hari,0-2 jam,Tidak pernah,Sepeda motor,normal
+Perempuan,19,1.69,70,Ya,Tidak,Kadang-kadang,1-2x,Tidak pernah,Tidak,1-2 liter,Tidak,2-4 hari,0-2 jam,Tidak pernah,Sepeda motor,kelebihan_berat_badan
+Perempuan,21,1.66,59,Tidak,Ya,Tidak pernah,3x,Selalu,Tidak,1-2 liter,Ya,4-5 hari,0-2 jam,Tidak pernah,Jalan kaki,normal
+Perempuan,19,1.64,53,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Sepeda motor,normal
+Perempuan,20,1.62,53,Tidak,Ya,Selalu,1-2x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Sepeda motor,normal
+Perempuan,19,1.7,64,Ya,Ya,Selalu,3x,Tidak pernah,Tidak,Lebih 2 liter,Ya,4-5 hari,0-2 jam,Tidak pernah,Sepeda motor,normal
+Perempuan,17,1.63,65,Tidak,Ya,Kadang-kadang,1-2x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Sepeda motor,kelebihan_berat_badan
+Perempuan,20,1.63,64,Ya,Ya,Tidak pernah,3x,Selalu,Tidak,1-2 liter,Tidak,Tidak pernah,3-5 jam,Tidak pernah,Jalan kaki,kelebihan_berat_badan
+Perempuan,21,1.54,49,Ya,Tidak,Kadang-kadang,1-2x,Kadang-kadang,Tidak,1-2 liter,Ya,2-4 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,20,1.64,49,Tidak,Tidak,Selalu,3x,Kadang-kadang,Ya,1-2 liter,Tidak,2-4 hari,0-2 jam,Kadang-kadang,Jalan kaki,berat_badan_kurang
+Perempuan,20,1.57,60,Tidak,Ya,Selalu,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,kelebihan_berat_badan
+Perempuan,20,1.62,52,Tidak,Ya,Selalu,3x,Sering,Tidak,1-2 liter,Tidak,4-5 hari,0-2 jam,Tidak pernah,Jalan kaki,normal
+Laki-laki,21,1.72,72,Ya,Ya,Selalu,3x,Selalu,Tidak,Lebih 2 liter,Ya,4-5 hari,0-2 jam,Kadang-kadang,Jalan kaki,kelebihan_berat_badan
+Perempuan,26,1.59,47,Ya,Ya,Kadang-kadang,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,3-5 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,22,1.64,56,Ya,Tidak,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Sepeda motor,normal
+Perempuan,39,1.65,50,Tidak,Ya,Selalu,Lebih 3x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Laki-laki,38,1.7,78,Tidak,Ya,Selalu,3x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Sering,Jalan kaki,obesitas_I
+Laki-laki,17,1.67,60,Tidak,Tidak,Kadang-kadang,Lebih 3x,Selalu,Tidak,1-2 liter,Tidak,Tidak pernah,3-5 jam,Tidak pernah,Sepeda motor,normal
+Laki-laki,23,1.72,66,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Mobil,normal
+Perempuan,19,1.5,50,Tidak,Ya,Kadang-kadang,3x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,3-5 jam,Kadang-kadang,Sepeda motor,normal
+Laki-laki,18,1.7,60,Tidak,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,2-4 hari,0-2 jam,Tidak pernah,Sepeda motor,normal
+Laki-laki,25,1.71,71,Ya,Ya,Kadang-kadang,3x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Transportasi umum,kelebihan_berat_badan
+Perempuan,25,1.61,61,Tidak,Tidak,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,2-4 hari,0-2 jam,Kadang-kadang,Sepeda motor,kelebihan_berat_badan
+Perempuan,18,1.5,50,Ya,Ya,Selalu,3x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Laki-laki,16,1.67,50,Ya,Ya,Kadang-kadang,1-2x,Sering,Tidak,Lebih 2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Sepeda motor,berat_badan_kurang
+Perempuan,32,1.57,57,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,kelebihan_berat_badan
+Laki-laki,18,1.7,55,Ya,Ya,Kadang-kadang,3x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,18,1.62,55,Ya,Ya,Kadang-kadang,3x,Sering,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Sepeda motor,normal
+Laki-laki,17,1.69,60,Tidak,Tidak,Kadang-kadang,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,2-4 hari,0-2 jam,Kadang-kadang,Mobil,normal
+Perempuan,21,1.6,61,Tidak,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Sepeda motor,kelebihan_berat_badan
+Perempuan,18,1.6,58,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,4-5 hari,0-2 jam,Tidak pernah,Sepeda motor,normal
+Perempuan,17,1.56,51,Tidak,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,3-5 jam,Tidak pernah,Sepeda motor,normal
+Laki-laki,21,1.7,65,Ya,Ya,Kadang-kadang,3x,Sering,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Sepeda motor,normal
+Perempuan,16,1.66,58,Tidak,Tidak,Kadang-kadang,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Mobil,normal
+Perempuan,21,1.53,53,Tidak,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,2-4 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Laki-laki,26,1.7,70,Tidak,Ya,Kadang-kadang,3x,Kadang-kadang,Ya,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,kelebihan_berat_badan
+Laki-laki,18,1.72,55,Tidak,Ya,Kadang-kadang,Lebih 3x,Kadang-kadang,Tidak,1-2 liter,Tidak,2-4 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,16,1.57,49,Tidak,Ya,Kadang-kadang,Lebih 3x,Selalu,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,24,1.56,60,Ya,Ya,Tidak pernah,3x,Selalu,Tidak,1-2 liter,Tidak,Tidak pernah,3-5 jam,Kadang-kadang,Sepeda motor,kelebihan_berat_badan
+Perempuan,23,1.59,48,Ya,Ya,Kadang-kadang,1-2x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,3-5 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,16,1.66,58,Tidak,Tidak,Kadang-kadang,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Mobil,normal
+Laki-laki,17,1.72,62,Tidak,Ya,Kadang-kadang,3x,Selalu,Tidak,1-2 liter,Tidak,4-5 hari,0-2 jam,Tidak pernah,Sepeda motor,normal
+Perempuan,16,1.6,57,Tidak,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,4-5 hari,0-2 jam,Tidak pernah,Sepeda motor,normal
+Laki-laki,17,1.66,56,Ya,Ya,Tidak pernah,3x,Selalu,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,26,1.65,63,Tidak,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Mobil,kelebihan_berat_badan
+Perempuan,25,1.56,45,Tidak,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Laki-laki,21,1.67,67,Ya,Ya,Selalu,1-2x,Selalu,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Sepeda motor,kelebihan_berat_badan
+Perempuan,30,1.65,71,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,obesitas_I
+Perempuan,21,1.55,58,Tidak,Ya,Kadang-kadang,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Sepeda motor,kelebihan_berat_badan
+Laki-laki,18,1.7,55,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,4-5 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,23,1.7,56,Tidak,Tidak,Selalu,Lebih 3x,Selalu,Tidak,Lebih 2 liter,Ya,4-5 hari,0-2 jam,Tidak pernah,Jalan kaki,normal
+Laki-laki,19,1.7,50,Tidak,Ya,Tidak pernah,Lebih 3x,Sering,Tidak,1-2 liter,Tidak,2-4 hari,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Laki-laki,20,1.7,65,Tidak,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Sepeda motor,normal
+Laki-laki,20,1.6,50,Tidak,Tidak,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Laki-laki,23,1.65,66,Tidak,Tidak,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,4-5 hari,0-2 jam,Tidak pernah,Sepeda motor,kelebihan_berat_badan
+Laki-laki,17,1.7,55,Tidak,Ya,Selalu,3x,Selalu,Tidak,1-2 liter,Tidak,4-5 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,21,1.54,47,Ya,Tidak,Selalu,3x,Selalu,Tidak,1-2 liter,Tidak,2-4 hari,0-2 jam,Tidak pernah,Sepeda motor,normal
+Perempuan,26,1.65,60,Tidak,Tidak,Selalu,Lebih 3x,Selalu,Tidak,1-2 liter,Tidak,2-4 hari,0-2 jam,Tidak pernah,Mobil,normal
+Perempuan,17,1.6,53,Tidak,Ya,Tidak pernah,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,2-4 hari,3-5 jam,Kadang-kadang,Mobil,normal
+Perempuan,24,1.6,51,Ya,Ya,Tidak pernah,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,normal
+Perempuan,17,1.6,59,Tidak,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,3-5 jam,Tidak pernah,Sepeda motor,kelebihan_berat_badan
+Perempuan,17,1.7,56,Ya,Ya,Tidak pernah,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Jalan kaki,normal
+Perempuan,33,1.56,48,Ya,Tidak,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,40,1.56,80,Ya,Ya,Kadang-kadang,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,2-4 hari,0-2 jam,Tidak pernah,Sepeda motor,obesitas_II
+Perempuan,37,1.65,73,Ya,Tidak,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_I
+Laki-laki,24,1.7,68,Tidak,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Transportasi umum,kelebihan_berat_badan
+Laki-laki,33,1.72,83,Ya,Ya,Kadang-kadang,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,4-5 hari,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_I
+Perempuan,40,1.58,63,Tidak,Ya,Kadang-kadang,3x,Sering,Tidak,1-2 liter,Tidak,4-5 hari,0-2 jam,Kadang-kadang,Sepeda motor,obesitas_I
+Perempuan,37,1.68,83,Ya,Ya,Kadang-kadang,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Perempuan,18,1.62,58,Tidak,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,3-5 jam,Tidak pernah,Jalan kaki,normal
+Perempuan,21,1.54,56,Tidak,Ya,Kadang-kadang,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,3-5 jam,Kadang-kadang,Sepeda motor,kelebihan_berat_badan
+Perempuan,36,1.58,60,Ya,Tidak,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,2-4 hari,0-2 jam,Kadang-kadang,Jalan kaki,kelebihan_berat_badan
+Laki-laki,17,1.7,70,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,3-5 jam,Kadang-kadang,Mobil,kelebihan_berat_badan
+Perempuan,29,1.6,56,Ya,Tidak,Kadang-kadang,3x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,18,1.6,60,Ya,Ya,Selalu,1-2x,Kadang-kadang,Tidak,1-2 liter,Ya,Tidak pernah,3-5 jam,Tidak pernah,Mobil,kelebihan_berat_badan
+Perempuan,16,1.55,45,Tidak,Ya,Kadang-kadang,3x,Sering,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Sepeda motor,normal
+Perempuan,18,1.59,53,Tidak,Tidak,Tidak pernah,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,3-5 jam,Tidak pernah,Sepeda motor,normal
+Perempuan,37,1.5,75,Ya,Ya,Kadang-kadang,3x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Transportasi umum,obesitas_II
+Perempuan,17,1.53,55,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Sepeda motor,kelebihan_berat_badan
+Perempuan,20,1.54,39,Ya,Ya,Tidak pernah,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,4-5 hari,3-5 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,38,1.55,59,Ya,Tidak,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,2-4 hari,0-2 jam,Sering,Jalan kaki,kelebihan_berat_badan
+Laki-laki,20,1.66,60,Tidak,Ya,Kadang-kadang,Lebih 3x,Sering,Tidak,Lebih 2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Sepeda motor,normal
+Laki-laki,21,1.65,60,Tidak,Tidak,Selalu,1-2x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Transportasi umum,normal
+Perempuan,33,1.55,55,Ya,Ya,Selalu,1-2x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,2-4 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Laki-laki,14,1.71,72,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,2-4 hari,0-2 jam,Tidak pernah,Mobil,kelebihan_berat_badan
+Perempuan,19,1.61,53,Ya,Ya,Kadang-kadang,3x,Selalu,Tidak,1-2 liter,Tidak,2-4 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,20,1.67,60,Tidak,Ya,Selalu,3x,Tidak pernah,Tidak,1-2 liter,Tidak,4-5 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Laki-laki,23,1.7,69,Tidak,Ya,Selalu,1-2x,Sering,Tidak,1-2 liter,Tidak,2-4 hari,0-2 jam,Kadang-kadang,Sepeda motor,kelebihan_berat_badan
+Perempuan,18,1.6,55,Tidak,Ya,Kadang-kadang,Lebih 3x,Sering,Tidak,1-2 liter,Tidak,2-4 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,18,1.64,59,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,18,1.56,55,Tidak,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Sering,Jalan kaki,normal
+Perempuan,18,1.6,56,Ya,Ya,Kadang-kadang,1-2x,Selalu,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Mobil,normal
+Perempuan,19,1.6,60,Tidak,Ya,Kadang-kadang,3x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,kelebihan_berat_badan
+Perempuan,18,1.55,56,Tidak,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,kelebihan_berat_badan
+Perempuan,18,1.55,50,Ya,Ya,Selalu,3x,Sering,Tidak,1-2 liter,Tidak,1-2 hari,3-5 jam,Tidak pernah,Sepeda motor,normal
+Laki-laki,26,1.72,65,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Mobil,normal
+Laki-laki,18,1.72,53,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,3-5 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Laki-laki,19,1.7,60,Ya,Ya,Kadang-kadang,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,2-4 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,19,1.51,45,Tidak,Ya,Kadang-kadang,Lebih 3x,Kadang-kadang,Tidak,1-2 liter,Tidak,4-5 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,18,1.63,63,Ya,Ya,Tidak pernah,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,2-4 hari,3-5 jam,Kadang-kadang,Sepeda motor,kelebihan_berat_badan
+Laki-laki,19,1.71,71,Tidak,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Sepeda motor,kelebihan_berat_badan
+Laki-laki,19,1.7,65,Ya,Tidak,Kadang-kadang,3x,Sering,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Sepeda motor,normal
+Perempuan,18,1.62,50,Tidak,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,normal
+Perempuan,20,1.68,68,Tidak,Ya,Selalu,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Sepeda motor,kelebihan_berat_badan
+Perempuan,33,1.59,60,Tidak,Ya,Selalu,1-2x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Sepeda motor,kelebihan_berat_badan
+Perempuan,19,1.5,45,Tidak,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Laki-laki,19,1.69,60,Tidak,Ya,Kadang-kadang,3x,Selalu,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,18,1.62,55,Ya,Ya,Kadang-kadang,3x,Sering,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Sepeda motor,normal
+Perempuan,18,1.6,51,Ya,Ya,Kadang-kadang,3x,Sering,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,20,1.62,45,Tidak,Ya,Selalu,3x,Sering,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,19,1.54,42,Tidak,Ya,Selalu,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Sepeda motor,berat_badan_kurang
+Perempuan,20,1.56,51,Tidak,Ya,Kadang-kadang,3x,Sering,Tidak,1-2 liter,Tidak,4-5 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,18,1.63,51,Ya,Ya,Tidak pernah,3x,Sering,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,18,1.64,56,Ya,Ya,Selalu,3x,Sering,Tidak,1-2 liter,Ya,1-2 hari,0-2 jam,Tidak pernah,Sepeda motor,normal
+Laki-laki,19,1.69,65,Tidak,Ya,Kadang-kadang,3x,Sering,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,17,1.58,50,Tidak,Ya,Tidak pernah,Lebih 3x,Sering,Tidak,1-2 liter,Tidak,1-2 hari,3-5 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,18,1.57,50,Tidak,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,20,1.58,53,Ya,Ya,Kadang-kadang,1-2x,Sering,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,36,1.65,80,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,3-5 jam,Tidak pernah,Jalan kaki,obesitas_I
+Perempuan,19,1.56,50,Tidak,Ya,Kadang-kadang,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,3-5 jam,Tidak pernah,Sepeda motor,normal
+Laki-laki,25,1.66,68,Tidak,Ya,Kadang-kadang,3x,Kadang-kadang,Ya,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Sepeda motor,kelebihan_berat_badan
+Laki-laki,45,1.7,86,Tidak,Ya,Selalu,3x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Perempuan,18,1.67,66,Tidak,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,kelebihan_berat_badan
+Laki-laki,20,1.56,45,Tidak,Tidak,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,21,1.67,49,Ya,Ya,Selalu,3x,Sering,Tidak,Lebih 2 liter,Tidak,2-4 hari,0-2 jam,Tidak pernah,Sepeda motor,berat_badan_kurang
+Perempuan,21,1.6,44,Tidak,Tidak,Selalu,1-2x,Sering,Tidak,Lebih 2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Sepeda motor,berat_badan_kurang
+Perempuan,21,1.57,43,Tidak,Tidak,Selalu,1-2x,Sering,Tidak,Lebih 2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Sepeda motor,berat_badan_kurang
+Perempuan,21,1.59,43,Tidak,Tidak,Selalu,1-2x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Sepeda motor,berat_badan_kurang
+Perempuan,20,1.57,41,Tidak,Ya,Selalu,1-2x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,21,1.52,42,Tidak,Ya,Selalu,1-2x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,20,1.55,44,Tidak,Ya,Selalu,3x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,19,1.52,42,Tidak,Ya,Selalu,1-2x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,20,1.53,42,Tidak,Ya,Selalu,1-2x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,21,1.52,42,Tidak,Ya,Selalu,1-2x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,21,1.72,50,Tidak,Tidak,Selalu,Lebih 3x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Laki-laki,21,1.71,51,Ya,Ya,Selalu,Lebih 3x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Sepeda motor,berat_badan_kurang
+Laki-laki,18,1.69,52,Ya,Ya,Selalu,3x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Sepeda motor,berat_badan_kurang
+Perempuan,18,1.56,41,Tidak,Ya,Selalu,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,19,1.66,49,Tidak,Tidak,Selalu,3x,Sering,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,29,1.61,49,Ya,Ya,Selalu,Lebih 3x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Sepeda motor,normal
+Perempuan,32,1.64,46,Ya,Ya,Selalu,Lebih 3x,Sering,Tidak,Lebih 2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Sepeda motor,berat_badan_kurang
+Perempuan,24,1.65,49,Ya,Ya,Selalu,Lebih 3x,Sering,Tidak,Lebih 2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Sepeda motor,berat_badan_kurang
+Laki-laki,17,1.71,51,Tidak,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Laki-laki,16,1.69,52,Tidak,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,17,1.64,43,Tidak,Ya,Selalu,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,2-4 hari,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,17,1.58,44,Tidak,Ya,Selalu,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,2-4 hari,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,22,1.7,54,Ya,Ya,Selalu,3x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Sepeda motor,normal
+Perempuan,17,1.65,49,Tidak,Ya,Selalu,Lebih 3x,Kadang-kadang,Tidak,1-2 liter,Tidak,2-4 hari,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,19,1.7,49,Tidak,Ya,Kadang-kadang,Lebih 3x,Sering,Tidak,1-2 liter,Tidak,2-4 hari,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,19,1.53,42,Tidak,Tidak,Selalu,1-2x,Sering,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,21,1.68,49,Ya,Ya,Selalu,3x,Sering,Tidak,Lebih 2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Sepeda motor,berat_badan_kurang
+Perempuan,17,1.71,50,Tidak,Ya,Selalu,Lebih 3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,20,1.53,40,Tidak,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,19,1.6,45,Tidak,Tidak,Selalu,3x,Sering,Tidak,Lebih 2 liter,Ya,1-2 hari,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,19,1.54,42,Tidak,Ya,Selalu,1-2x,Sering,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Laki-laki,18,1.7,50,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,21,1.67,49,Ya,Ya,Selalu,3x,Sering,Tidak,Lebih 2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Sepeda motor,berat_badan_kurang
+Perempuan,19,1.6,45,Tidak,Tidak,Selalu,3x,Sering,Tidak,Lebih 2 liter,Ya,1-2 hari,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,20,1.55,41,Tidak,Ya,Selalu,1-2x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,20,1.53,41,Tidak,Ya,Selalu,1-2x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,21,1.69,51,Ya,Ya,Selalu,Lebih 3x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Sepeda motor,berat_badan_kurang
+Perempuan,19,1.65,49,Tidak,Tidak,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,2-4 hari,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,18,1.7,50,Tidak,Ya,Kadang-kadang,Lebih 3x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,34,1.69,50,Ya,Ya,Selalu,Lebih 3x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Sepeda motor,berat_badan_kurang
+Laki-laki,16,1.69,50,Tidak,Ya,Kadang-kadang,1-2x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Laki-laki,18,1.72,52,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,20,1.61,44,Tidak,Tidak,Selalu,3x,Sering,Tidak,1-2 liter,Ya,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Laki-laki,18,1.72,52,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,20,1.67,49,Ya,Ya,Selalu,Lebih 3x,Sering,Tidak,Lebih 2 liter,Tidak,2-4 hari,0-2 jam,Tidak pernah,Sepeda motor,berat_badan_kurang
+Perempuan,21,1.59,44,Tidak,Tidak,Selalu,1-2x,Sering,Tidak,Lebih 2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Sepeda motor,berat_badan_kurang
+Perempuan,21,1.59,44,Tidak,Tidak,Selalu,1-2x,Sering,Tidak,Lebih 2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Sepeda motor,berat_badan_kurang
+Perempuan,21,1.56,42,Tidak,Tidak,Selalu,1-2x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Sepeda motor,berat_badan_kurang
+Perempuan,21,1.52,42,Tidak,Ya,Selalu,1-2x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,20,1.56,41,Tidak,Ya,Selalu,1-2x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,20,1.52,42,Tidak,Ya,Selalu,1-2x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,21,1.52,42,Tidak,Ya,Selalu,1-2x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,21,1.69,51,Ya,Ya,Selalu,Lebih 3x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Sepeda motor,berat_badan_kurang
+Perempuan,21,1.71,51,Ya,Ya,Selalu,Lebih 3x,Sering,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Sepeda motor,berat_badan_kurang
+Perempuan,19,1.68,49,Tidak,Tidak,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,19,1.67,49,Tidak,Tidak,Selalu,Lebih 3x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,19,1.67,49,Tidak,Ya,Selalu,Lebih 3x,Kadang-kadang,Tidak,1-2 liter,Tidak,2-4 hari,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,27,1.66,49,Ya,Ya,Selalu,Lebih 3x,Sering,Tidak,Lebih 2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Sepeda motor,berat_badan_kurang
+Perempuan,25,1.63,46,Ya,Ya,Selalu,Lebih 3x,Sering,Tidak,Lebih 2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Sepeda motor,berat_badan_kurang
+Perempuan,18,1.61,42,Tidak,Ya,Selalu,3x,Kadang-kadang,Tidak,Lebih 2 liter,Ya,1-2 hari,0-2 jam,Tidak pernah,Sepeda motor,berat_badan_kurang
+Perempuan,16,1.71,45,Tidak,Ya,Selalu,Lebih 3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,2-4 hari,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,19,1.7,49,Tidak,Ya,Kadang-kadang,Lebih 3x,Kadang-kadang,Tidak,1-2 liter,Tidak,2-4 hari,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,20,1.52,42,Tidak,Ya,Selalu,1-2x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,21,1.72,50,Ya,Ya,Selalu,Lebih 3x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Sepeda motor,berat_badan_kurang
+Perempuan,21,1.7,50,Ya,Ya,Selalu,Lebih 3x,Sering,Tidak,Lebih 2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Sepeda motor,berat_badan_kurang
+Perempuan,17,1.71,50,Tidak,Ya,Kadang-kadang,Lebih 3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,20,1.53,41,Tidak,Ya,Selalu,3x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,19,1.57,44,Tidak,Tidak,Selalu,3x,Sering,Tidak,1-2 liter,Ya,1-2 hari,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,19,1.58,44,Tidak,Tidak,Selalu,3x,Sering,Tidak,1-2 liter,Ya,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,19,1.6,45,Tidak,Tidak,Selalu,3x,Sering,Tidak,Lebih 2 liter,Ya,1-2 hari,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,19,1.53,42,Tidak,Ya,Selalu,1-2x,Sering,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Laki-laki,18,1.72,52,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,berat_badan_kurang
+Perempuan,41,1.72,82,Tidak,Ya,Selalu,Lebih 3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,4-5 hari,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_I
+Perempuan,33,1.64,74,Ya,Tidak,Selalu,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_I
+Perempuan,35,1.53,62,Tidak,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_I
+Perempuan,36,1.55,62,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_I
+Perempuan,30,1.63,68,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_I
+Perempuan,32,1.72,72,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,kelebihan_berat_badan
+Perempuan,16,1.55,54,Tidak,Ya,Kadang-kadang,1-2x,Kadang-kadang,Tidak,1-2 liter,Ya,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,normal
+Perempuan,23,1.59,62,Tidak,Ya,Selalu,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Sepeda motor,kelebihan_berat_badan
+Perempuan,35,1.67,73,Ya,Tidak,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_I
+Perempuan,37,1.59,63,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,2-4 hari,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Perempuan,31,1.66,73,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_I
+Perempuan,32,1.67,74,Ya,Ya,Selalu,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_I
+Perempuan,32,1.68,74,Ya,Ya,Selalu,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_I
+Perempuan,37,1.51,63,Ya,Ya,Selalu,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_I
+Perempuan,40,1.56,62,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_I
+Perempuan,38,1.55,63,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,2-4 hari,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_I
+Perempuan,31,1.69,71,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,kelebihan_berat_badan
+Perempuan,30,1.65,73,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_I
+Perempuan,30,1.65,69,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_I
+Perempuan,18,1.5,55,Tidak,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Ya,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,kelebihan_berat_badan
+Perempuan,35,1.65,73,Ya,Tidak,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_I
+Perempuan,40,1.57,62,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_I
+Perempuan,17,1.54,57,Tidak,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Ya,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,kelebihan_berat_badan
+Perempuan,33,1.68,74,Ya,Ya,Selalu,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_I
+Perempuan,38,1.55,62,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_I
+Perempuan,38,1.57,62,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_I
+Perempuan,36,1.53,62,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_I
+Perempuan,31,1.68,71,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_I
+Perempuan,31,1.67,72,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_I
+Perempuan,17,1.49,53,Tidak,Ya,Kadang-kadang,1-2x,Kadang-kadang,Tidak,1-2 liter,Ya,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,kelebihan_berat_badan
+Perempuan,17,1.52,55,Tidak,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Ya,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,kelebihan_berat_badan
+Perempuan,16,1.62,65,Ya,Ya,Selalu,1-2x,Kadang-kadang,Tidak,1-2 liter,Ya,Tidak pernah,0-2 jam,Tidak pernah,Sepeda motor,kelebihan_berat_badan
+Perempuan,34,1.68,73,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_I
+Perempuan,39,1.58,62,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,kelebihan_berat_badan
+Perempuan,19,1.57,61,Tidak,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Ya,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,kelebihan_berat_badan
+Perempuan,32,1.65,74,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_I
+Perempuan,31,1.65,73,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_I
+Laki-laki,34,1.68,83,Ya,Ya,Kadang-kadang,1-2x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Perempuan,42,1.65,79,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Perempuan,38,1.7,78,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Perempuan,37,1.65,80,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Perempuan,33,1.68,77,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Perempuan,34,1.65,77,Ya,Ya,Selalu,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Perempuan,34,1.69,77,Ya,Ya,Selalu,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Laki-laki,33,1.71,83,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,2-4 hari,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Perempuan,36,1.7,83,Ya,Ya,Kadang-kadang,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Perempuan,34,1.66,80,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Perempuan,34,1.67,77,Ya,Ya,Selalu,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Perempuan,45,1.68,79,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Laki-laki,31,1.71,82,Ya,Ya,Selalu,Lebih 3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Perempuan,30,1.54,65,Ya,Tidak,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Sepeda motor,obesitas_I
+Laki-laki,34,1.72,84,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Laki-laki,55,1.66,80,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Laki-laki,34,1.71,84,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,2-4 hari,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Perempuan,38,1.68,77,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Perempuan,39,1.69,79,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Perempuan,34,1.67,77,Ya,Ya,Selalu,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Laki-laki,46,1.72,88,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Perempuan,38,1.7,78,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Laki-laki,33,1.71,83,Ya,Ya,Kadang-kadang,1-2x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,2-4 hari,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Perempuan,37,1.67,80,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Perempuan,35,1.65,79,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Perempuan,39,1.71,85,Ya,Ya,Selalu,1-2x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Laki-laki,34,1.69,84,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Laki-laki,55,1.67,80,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Perempuan,41,1.68,79,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Perempuan,38,1.7,78,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Perempuan,37,1.68,79,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Perempuan,34,1.68,77,Ya,Ya,Selalu,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Perempuan,34,1.65,79,Ya,Ya,Selalu,1-2x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Perempuan,33,1.68,77,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Laki-laki,33,1.71,83,Ya,Ya,Kadang-kadang,1-2x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,2-4 hari,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Laki-laki,35,1.69,83,Ya,Ya,Kadang-kadang,1-2x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Laki-laki,33,1.69,83,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Perempuan,35,1.66,80,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Perempuan,33,1.68,77,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Laki-laki,39,1.72,86,Ya,Ya,Selalu,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Perempuan,45,1.69,80,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,obesitas_I
+Perempuan,31,1.56,78,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Sepeda motor,obesitas_II
+Perempuan,43,1.57,81,Ya,Ya,Selalu,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Jalan kaki,obesitas_II
+Perempuan,42,1.58,81,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,obesitas_II
+Perempuan,37,1.56,77,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Perempuan,40,1.55,77,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Perempuan,37,1.56,80,Ya,Ya,Selalu,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Laki-laki,31,1.67,90,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Perempuan,40,1.54,80,Ya,Ya,Kadang-kadang,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Perempuan,39,1.51,79,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Perempuan,37,1.61,80,Ya,Ya,Selalu,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Perempuan,37,1.51,75,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Perempuan,37,1.57,76,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Perempuan,43,1.59,76,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Perempuan,30,1.53,78,Ya,Ya,Selalu,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Sepeda motor,obesitas_II
+Perempuan,42,1.65,86,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,obesitas_II
+Perempuan,47,1.64,81,Ya,Ya,Selalu,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,obesitas_II
+Perempuan,38,1.56,79,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Perempuan,37,1.56,80,Ya,Ya,Selalu,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Perempuan,43,1.6,77,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,obesitas_II
+Perempuan,40,1.57,79,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,obesitas_II
+Perempuan,37,1.63,80,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Perempuan,37,1.62,80,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Laki-laki,31,1.67,90,Ya,Ya,Selalu,1-2x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Laki-laki,31,1.68,89,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Laki-laki,36,1.67,90,Ya,Ya,Selalu,1-2x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Perempuan,41,1.57,81,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Perempuan,40,1.55,80,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Laki-laki,30,1.69,90,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Perempuan,39,1.59,80,Ya,Ya,Selalu,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Perempuan,38,1.6,80,Ya,Ya,Selalu,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Perempuan,38,1.53,75,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Perempuan,38,1.5,76,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Laki-laki,31,1.67,89,Ya,Ya,Selalu,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Perempuan,33,1.56,77,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Perempuan,42,1.57,81,Ya,Ya,Selalu,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Tidak pernah,Jalan kaki,obesitas_II
+Perempuan,43,1.58,80,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,obesitas_II
+Perempuan,43,1.58,81,Ya,Ya,Selalu,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,obesitas_II
+Perempuan,39,1.57,80,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Tidak pernah,Jalan kaki,obesitas_II
+Perempuan,39,1.53,77,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Perempuan,37,1.52,76,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Perempuan,40,1.56,77,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Perempuan,38,1.56,77,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Perempuan,38,1.55,80,Ya,Ya,Selalu,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Perempuan,37,1.56,80,Ya,Ya,Selalu,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Laki-laki,31,1.67,90,Ya,Ya,Selalu,1-2x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Perempuan,38,1.55,80,Ya,Ya,Selalu,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Perempuan,40,1.55,80,Ya,Ya,Kadang-kadang,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Perempuan,40,1.53,79,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Perempuan,38,1.52,79,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Perempuan,39,1.57,80,Ya,Ya,Selalu,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Perempuan,37,1.57,80,Ya,Ya,Selalu,1-2x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Perempuan,37,1.52,77,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Perempuan,37,1.55,76,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,1-2 hari,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Perempuan,39,1.56,76,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Perempuan,37,1.5,75,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,1-2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Perempuan,41,1.54,77,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
+Perempuan,43,1.59,77,Ya,Ya,Kadang-kadang,3x,Kadang-kadang,Tidak,Lebih 2 liter,Tidak,Tidak pernah,0-2 jam,Kadang-kadang,Jalan kaki,obesitas_II
